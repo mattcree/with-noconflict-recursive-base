@@ -1,3 +1,3 @@
 A heading
+My favourite colour is YELLOW.
 A final line.
-My favourite colour is RED.
